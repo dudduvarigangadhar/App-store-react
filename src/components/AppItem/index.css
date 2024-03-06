@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.app-image {
+  height: 70px;
+  width: 70px;
+}
+
+.img-container {
+  background-color: #ffffff;
+  width: 120px;
+  height: 130px;
+  text-align: center;
+  border-radius: 10px;
+  padding: 10px;
+  padding-top: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  list-style-type: none;
+}
+
+.app-name {
+  font-family: 'Bree Serif';
+  line-height: 5px;
+  font-size: 12px;
+  font-weight: 500;
+  padding-bottom: 8px;
+}

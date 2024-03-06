@@ -1,0 +1,33 @@
+/* Write your CSS here */
+.category-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.category {
+  color: #7b8794;
+  font-family: 'Bree Serif';
+  margin-right: 20px;
+  cursor: pointer;
+}
+
+.tab-btn {
+  font-family: 'Roboto';
+  font-weight: 500;
+  background-color: transparent;
+  border: none;
+  color: #7b8794;
+  cursor: pointer;
+  /* margin-right: 20px; */
+  border-bottom: 2px solid #7b8794;
+  outline: none;
+  padding: 10px;
+}
+
+.active-btn {
+  border-bottom: 2px solid #2563eb;
+}
+
+.list-style {
+  list-style-type: none;
+}
